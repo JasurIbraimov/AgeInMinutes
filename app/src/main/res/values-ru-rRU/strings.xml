@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Возраст в минутах</string>
+    <string name="sup_title">Определи свой</string>
+    <string name="age">Возраст</string>
+    <string name="in_minutes">в минутах</string>
+    <string name="select_date">выбрать дату</string>
+    <string name="your_birthday">Ваш день рождения</string>
+    <string name="age_in_days">Возраст в днях</string>
+</resources>

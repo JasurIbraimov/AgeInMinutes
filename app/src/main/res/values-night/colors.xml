@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#2d3436</color>
+    <color name="button_color">#636e72</color>
+    <color name="age_color">#b2bec3</color>
+    <color name="text_color">#ffffff</color>
+    <color name="output_color">#fdcb6e</color>
+</resources>
